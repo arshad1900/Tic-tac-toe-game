@@ -22,6 +22,7 @@ h1 {
     font-weight: 300;
     font-style: normal;
     font-size: 4rem;
+    
 }
 
 button{
@@ -147,5 +148,27 @@ button{
 }
 
 
-
+.footer {
+  background-color: #17171700;
+  color: #fff;
+  text-align: center;
+  font-weight: 600;
+  padding: 2rem 0;
+  box-shadow: 0 1px 4px rgba(255, 255, 255, 0.15);
+}
+.footer__title {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+.footer__social {
+  margin-bottom: 2rem;
+}
+.footer__icon {
+  font-size: 1.5rem;
+  color: #fff;
+  margin: 0 1rem;
+}
+.footer__copy {
+  font-size:.75rem;
+}
 
